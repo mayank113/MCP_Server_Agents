@@ -1,10 +1,10 @@
-1.Initilize npm Package: npm init -y
-2.Install latest playwright: npm init playwright@latest
-3.Install Playwright Agents: npx playwright init-agents --loop=vscode
-4.Install MCP Server: npx -y @playwright/mcp@latest
-5.Run Playwright Test: npx playwright test --headed
-
-
+1.Install latest Visual Studio Code and Node.JS
+2.Using Terminal Check Node.JS version > node --version
+2Initilize npm Package: npm init -y
+3.Install latest playwright: npm init playwright@latest
+4.Install Playwright Agents: npx playwright init-agents --loop=vscode
+5.Install MCP Server: npx -y @playwright/mcp@latest
+6.Run Playwright Test: npx playwright test --headed
 
 Running Planner Agents
 ========================
